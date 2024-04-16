@@ -4,24 +4,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/debanjan-2002/fashion-flair">
-    <img src="client/public/logo-big.png" alt="Logo" height="80">
-  </a>
 
-  <h3 align="center">Fashion Flair</h3>
-
-  <p align="center">
-    Your personalised AI fashion assistant!
-    <br />
-    <br />
-    <a href="https://youtube.com/adrishyantee">View Demo</a>
-    ·
-    <a href="https://github.com/debanjan-2002/fashion-flair/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/debanjan-2002/fashion-flair/issues">Request Feature</a>
-  </p>
-</div>
-
+  <h3 align="center">Fashion Fit</h3>
+ 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -228,15 +213,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Adrishyantee Maiti - [@adrishyantee](https://linkedin.com/in/adrishyantee) - adrishyantee@gmail.com
-
-Debanjan Poddar - [@debanjan](https://linkedin.com/in/debanjan-poddar) - debanjan.edu.2002@gmail.com
-
-Project Link: [https://github.com/debanjan-2002/fashion-flair](https://github.com/debanjan-2002/fashion-flair)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
