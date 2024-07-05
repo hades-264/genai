@@ -2,7 +2,6 @@ Our fashion AI assistant, powered by GenAI, addresses this challenge by generati
 
 ### Built With
 
-
 * [![OpenAI API](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 * [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 * [![Express js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
@@ -10,9 +9,6 @@ Our fashion AI assistant, powered by GenAI, addresses this challenge by generati
 * [![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 * [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 * [![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-
-## Getting Started
 
 ### Prerequisites
 
@@ -23,7 +19,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
 
 1. Get a free OPENAI API Key at [https://openai.com/](https://openai.com/)
 2. Clone the repo
@@ -42,8 +37,6 @@ This is an example of how to list things you need to use the software and how to
     JWT_SECRET='ENTER YOUR API'
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Usage
 
@@ -60,8 +53,3 @@ This is an example of how to list things you need to use the software and how to
    Users can specify occasions like weddings, parties, or vacations, and the AI can suggest appropriate outfits. For instance, "What should I wear to a beach wedding?" or "Give me outfit ideas for a weekend getaway."
 
 These examples demonstrate how a fashion AI assistant can offer personalized fashion advice, trend insights, and outfit recommendations to users. Users can engage with the assistant via text input or even images, making it a versatile tool for enhancing their fashion choices.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
