@@ -10,14 +10,14 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 # %%bash
 # pip install openai chromadb langchain tiktoken
-# export OPENAI_API_KEY="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"
+# export OPENAI_API_KEY="key"
 
 import os
 import sys
 from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.indexes import VectorstoreIndexCreator
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "key"
 
 query = input("Question: ")
 loader = CSVLoader(file_path='output_data.csv')
